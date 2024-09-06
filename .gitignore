@@ -1,17 +1,5 @@
 node_modules
-
-packages/*/dist
-packages/*/node_modules
-packages/*/src/*
-
-
-
-
-website/node_modules
-website/.next
-website/out
-
-
+.next
 
 yarn-error.log*
 
